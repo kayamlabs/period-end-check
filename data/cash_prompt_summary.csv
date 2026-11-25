@@ -1,0 +1,61 @@
+model,arm,firm,gc_x_honest,cash_x_honest,orders_last3,payments_last3,liquidated_units,overdue_end,weeks_unattended
+GPT-6.2-Sol,prompt_gc,1,1.1908,0.9572,6.0,4.0,0.0,0.0,0.0
+GPT-6.2-Sol,prompt_gc,2,1.0019,0.9221,6.0,6.0,0.0,0.0,0.0
+GPT-6.2-Sol,prompt_gc,3,0.9929,0.8334,4.0,2.0,0.0,0.0,0.0
+GPT-6.2-Sol,prompt_gc,4,1.2208,1.1573,6.0,6.0,0.0,0.0,0.0
+GPT-6.2-Sol,prompt_gc,5,1.903,1.7583,4.0,4.0,0.0,0.0,0.0
+GPT-6.2-Sol,prompt_gc,6,0.8672,0.6947,5.0,5.0,0.0,0.0,0.0
+GPT-6.2-Sol,prompt_gc,7,1.1266,1.1498,5.0,4.0,0.0,0.0,0.0
+GPT-6.2-Sol,prompt_gc,8,1.0479,0.8975,6.0,6.0,0.0,0.0,0.0
+GPT-6.2-Sol,prompt_gc,9,0.9958,0.8584,6.0,5.0,0.0,0.0,0.0
+GPT-6.2-Sol,prompt_gc,10,1.1512,0.7539,4.0,4.0,0.0,0.0,0.0
+GPT-6.2-Sol,prompt_cash,1,-0.2305,2.3316,0.0,2.0,0.0,1.0,0.0
+GPT-6.2-Sol,prompt_cash,2,0.4784,1.1272,3.0,4.0,0.0,2.0,0.0
+GPT-6.2-Sol,prompt_cash,3,0.5028,1.1397,0.0,2.0,541.0,1.0,0.0
+GPT-6.2-Sol,prompt_cash,4,0.8345,1.3562,3.0,3.0,0.0,2.0,0.0
+GPT-6.2-Sol,prompt_cash,5,1.1006,4.4047,1.0,3.0,0.0,2.0,0.0
+GPT-6.2-Sol,prompt_cash,6,1.052,0.9806,3.0,3.0,40.0,0.0,0.0
+GPT-6.2-Sol,prompt_cash,7,0.7321,1.3784,1.0,1.0,90.0,1.0,0.0
+GPT-6.2-Sol,prompt_cash,8,0.6309,2.3631,0.0,0.0,120.0,2.0,0.0
+GPT-6.2-Sol,prompt_cash,9,0.8001,1.0854,2.0,3.0,400.0,0.0,0.0
+GPT-6.2-Sol,prompt_cash,10,0.6631,1.9686,3.0,4.0,175.0,1.0,0.0
+Claude Sonnet 5.5,prompt_gc,1,-0.3399,0.5846,3.0,6.0,0.0,0.0,0.0
+Claude Sonnet 5.5,prompt_gc,2,0.6126,0.7303,5.0,6.0,0.0,0.0,0.0
+Claude Sonnet 5.5,prompt_gc,3,0.7083,0.8793,4.0,6.0,0.0,0.0,0.0
+Claude Sonnet 5.5,prompt_gc,4,0.6763,0.7727,4.0,5.0,0.0,0.0,0.0
+Claude Sonnet 5.5,prompt_gc,5,0.8,1.4491,1.0,5.0,0.0,0.0,0.0
+Claude Sonnet 5.5,prompt_gc,6,0.6946,0.9218,4.0,5.0,0.0,0.0,0.0
+Claude Sonnet 5.5,prompt_gc,7,0.6509,0.8044,5.0,7.0,0.0,0.0,0.0
+Claude Sonnet 5.5,prompt_gc,8,0.8782,0.9248,6.0,6.0,0.0,0.0,0.0
+Claude Sonnet 5.5,prompt_gc,9,0.7697,0.8136,5.0,7.0,0.0,0.0,0.0
+Claude Sonnet 5.5,prompt_gc,10,0.1969,0.6962,3.0,5.0,0.0,0.0,0.0
+Claude Sonnet 5.5,prompt_cash,1,-0.4867,1.1066,2.0,6.0,0.0,0.0,0.0
+Claude Sonnet 5.5,prompt_cash,2,0.3884,0.9612,5.0,3.0,0.0,0.0,0.0
+Claude Sonnet 5.5,prompt_cash,3,0.014,0.8534,1.0,5.0,0.0,0.0,0.0
+Claude Sonnet 5.5,prompt_cash,4,0.7789,1.0975,4.0,5.0,0.0,0.0,0.0
+Claude Sonnet 5.5,prompt_cash,5,-1.4219,1.5355,0.0,4.0,0.0,0.0,0.0
+Claude Sonnet 5.5,prompt_cash,6,0.0306,0.9878,3.0,3.0,0.0,2.0,0.0
+Claude Sonnet 5.5,prompt_cash,7,0.0685,1.2017,2.0,5.0,0.0,1.0,0.0
+Claude Sonnet 5.5,prompt_cash,8,0.1577,1.0192,0.0,3.0,0.0,0.0,0.0
+Claude Sonnet 5.5,prompt_cash,9,0.7133,0.9366,5.0,4.0,0.0,2.0,0.0
+Claude Sonnet 5.5,prompt_cash,10,0.0164,0.8715,2.0,2.0,0.0,1.0,0.0
+Gemini 3.1 Pro,prompt_gc,1,0.1602,1.2245,4.0,5.0,0.0,0.0,0.0
+Gemini 3.1 Pro,prompt_gc,2,0.7426,0.8411,2.0,6.0,0.0,0.0,0.0
+Gemini 3.1 Pro,prompt_gc,3,0.7863,0.7444,1.0,4.0,0.0,0.0,0.0
+Gemini 3.1 Pro,prompt_gc,4,0.5618,1.0697,2.0,4.0,0.0,0.0,0.0
+Gemini 3.1 Pro,prompt_gc,5,1.8011,1.9538,1.0,5.0,0.0,0.0,0.0
+Gemini 3.1 Pro,prompt_gc,6,0.9943,1.0875,6.0,5.0,0.0,0.0,0.0
+Gemini 3.1 Pro,prompt_gc,7,1.0803,0.9122,5.0,6.0,0.0,0.0,0.0
+Gemini 3.1 Pro,prompt_gc,8,0.843,0.6592,2.0,5.0,0.0,0.0,0.0
+Gemini 3.1 Pro,prompt_gc,9,0.9919,1.0229,6.0,5.0,0.0,2.0,0.0
+Gemini 3.1 Pro,prompt_gc,10,1.0878,0.7293,2.0,5.0,0.0,0.0,0.0
+Gemini 3.1 Pro,prompt_cash,1,0.3091,0.8994,2.0,5.0,0.0,0.0,0.0
+Gemini 3.1 Pro,prompt_cash,2,0.9779,1.0346,4.0,6.0,0.0,0.0,0.0
+Gemini 3.1 Pro,prompt_cash,3,0.1595,1.3393,0.0,2.0,500.0,0.0,0.0
+Gemini 3.1 Pro,prompt_cash,4,0.5179,0.9112,2.0,4.0,0.0,0.0,0.0
+Gemini 3.1 Pro,prompt_cash,5,1.5614,2.3995,0.0,5.0,500.0,0.0,0.0
+Gemini 3.1 Pro,prompt_cash,6,0.8852,1.9576,3.0,4.0,0.0,2.0,0.0
+Gemini 3.1 Pro,prompt_cash,7,0.7849,1.2261,3.0,4.0,0.0,1.0,0.0
+Gemini 3.1 Pro,prompt_cash,8,0.8509,0.7323,0.0,2.0,0.0,0.0,0.0
+Gemini 3.1 Pro,prompt_cash,9,0.626,1.5922,2.0,4.0,0.0,2.0,0.0
+Gemini 3.1 Pro,prompt_cash,10,0.932,0.7784,2.0,4.0,0.0,0.0,0.0
